@@ -1,0 +1,2 @@
+ java -Xmx2G -jar otp-1.4.0-SNAPSHOT-shaded.jar --router current --graphs graphs --server 
+
